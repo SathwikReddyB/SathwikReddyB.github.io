@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+>SathwikReddyB.github.io
 
 :star: Star me on GitHub — it helps!
 
@@ -42,10 +42,8 @@
 ✔️ Interests\
 ✔️ Education\
 ✔️ Online Certification\
-✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
 ✔️ Contact Info
 
 
